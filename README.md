@@ -1,5 +1,6 @@
 Using mern-infrastructureto Create MERN-Stack Projects in the Future
 Here's the process to create a new MERN-Stack project that starts with the infrastructure code:
+demo:https://sei-cafe.herokuapp.com/
 
 Clone the mern-infrastructure repo: git clone <url of mern-infrastructure> <name-of-project>
 
